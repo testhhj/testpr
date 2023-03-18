@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="domain.AccountTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-03-18T04:49:04" hostname="HHJ-ASUS" time="0.07">
+  <properties/>
+  <testcase name="0원 계좌 생성" classname="domain.AccountTest" time="0.062"/>
+  <testcase name="2000원 입금" classname="domain.AccountTest" time="0.0"/>
+  <testcase name="음수 계좌 생성 에러" classname="domain.AccountTest" time="0.004"/>
+  <testcase name="1000원 입금" classname="domain.AccountTest" time="0.001"/>
+  <testcase name="입금" classname="domain.AccountTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
